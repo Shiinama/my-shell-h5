@@ -8,7 +8,7 @@ function App() {
   }
   return (
     <>
-      <TelegramLoginButton dataOnauth={handleTelegramResponse} botName="Aishell_bot" />,
+      <TelegramLoginButton dataOnauth={handleTelegramResponse} botName="MyShellBotTestBot" />,
     </>
   )
 }
